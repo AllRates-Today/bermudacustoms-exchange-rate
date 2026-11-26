@@ -32,23 +32,23 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-19 by Bermuda Customs Department — 14 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by Bermuda Customs Department — 14 rates. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | BMD | weekly | 0.6733 |
-| CAD | BMD | weekly | 0.6991 |
-| CHF | BMD | weekly | 1.1867 |
-| DKK | BMD | weekly | 0.1468 |
-| EUR | BMD | weekly | 1.0969 |
-| GBP | BMD | weekly | 1.3166 |
-| HKD | BMD | weekly | 0.1274 |
+| AUD | BMD | weekly | 0.6586 |
+| CAD | BMD | weekly | 0.7026 |
+| CHF | BMD | weekly | 1.1464 |
+| DKK | BMD | weekly | 0.1519 |
+| EUR | BMD | weekly | 1.0942 |
+| GBP | BMD | weekly | 1.3056 |
+| HKD | BMD | weekly | 0.1276 |
 | JMD | BMD | weekly | 0.0063 |
 | JPY | BMD | weekly | 0.0063 |
-| NOK | BMD | weekly | 0.1034 |
-| NZD | BMD | weekly | 0.5498 |
-| SEK | BMD | weekly | 0.0984 |
-| SGD | BMD | weekly | 0.7755 |
+| NOK | BMD | weekly | 0.1016 |
+| NZD | BMD | weekly | 0.546 |
+| SEK | BMD | weekly | 0.0973 |
+| SGD | BMD | weekly | 0.7741 |
 | USD | BMD | weekly | 1 |
 
 </details>
